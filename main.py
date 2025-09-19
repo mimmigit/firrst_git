@@ -7,3 +7,4 @@ def funktion(namn):
     print(f"hejsan {namn}")
 
 # försöker merge
+# lol
